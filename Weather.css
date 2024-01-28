@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;
+}
+
+body {
+    background-image: url('./tree-832079_1280.jpg');
+    margin: 10%;
+}
+
+#add  
+{
+    border-radius: 3px;
+    color: aqua;
+    background-color: rgb(127, 70, 241);
+    padding: 5px;
+}
+
+#cityinput {
+    width: 300px;
+    border-radius: 2px;
+    margin-bottom: 10px;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.Input {
+    width: 30%;
+    color: rgb(0, 250, 8);
+    font-size: large;
+    padding: 5%;
+    background-color: violet;
+    border-radius: 10px;
+
+}
